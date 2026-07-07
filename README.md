@@ -3,10 +3,7 @@ This repository contains the datasets and source code accompanying our study on 
 
 The repository includes:
 
-CFD-derived datasets
-Machine-learning surrogate models
-Training and evaluation scripts
-NSGA-II multi-objective optimization codes
+CFD-derived datasets, Machine-learning surrogate models, Training and evaluation scripts, NSGA-II multi-objective optimization codes
 
 
 
