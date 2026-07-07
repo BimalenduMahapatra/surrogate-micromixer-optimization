@@ -8,7 +8,7 @@ mixing index (MI) and pressure drop (dP) of a Carreau-Yasuda fluid from a databa
 of 218 CFD simulations, then couples the GPR surrogate with NSGA-II to reconstruct
 the CFD Pareto front and identify optimal micromixer geometries.
 
-#Contents
+# Contents
 
 
 primary_final.csv: 169 primary CFD cases (168 sinusoidal plus 1 straight reference), with dP in Pa.
