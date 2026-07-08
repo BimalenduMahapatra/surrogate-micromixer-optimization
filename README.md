@@ -1,7 +1,7 @@
 # surrogate-micromixer-optimization
 Data, surrogate models, and multi-objective optimization code for the study
-"Data-Driven Surrogate Modeling of Non-Newtonian Micromixing in Sinusoidal
-Converging-Diverging Microchannels" (Sharma and Mahapatra).
+"Data-Driven Surrogate Modeling for Micromixing of Non-Newtonian
+Fluids in Sinusoidal Converging–Diverging Microchannels" (Sharma and Mahapatra).
 
 The pipeline builds Gaussian Process Regression (GPR) surrogates for the outlet
 mixing index (MI) and pressure drop (dP) of a Carreau-Yasuda fluid from a database
